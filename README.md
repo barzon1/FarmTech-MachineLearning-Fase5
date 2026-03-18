@@ -23,7 +23,7 @@ Foram desenvolvidos, treinados e testados 5 algoritmos preditivos diferentes par
 O modelo escolhido para ser implementado na fazenda é o **Random Forest Regressor**. 
 Embora a Regressão Linear tenha obtido uma nota R² marginalmente superior, o modelo de Floresta Aleatória provou ser muito mais preciso na predição de valores absolutos, entregando o menor Erro Médio Absoluto (MAE) de todos os testes. Em logística agrícola, errar a estimativa por volumes menores (quase 400 toneladas de diferença para o segundo colocado) impacta positivamente a economia no aluguel de caminhões e silos de armazenamento. A inteligência coletiva de múltiplas árvores de decisão lidou perfeitamente com a diferença de escala de produção entre culturas como o Cacau e o Dendê.
 
-🎥 **Vídeo de Demonstração (Código e Execução):** [COLE O SEU LINK DO YOUTUBE AQUI]
+🎥 **Vídeo de Demonstração (Código e Execução):** [https://youtu.be/5hgnww5BDik]
 
 ---
 
@@ -44,4 +44,4 @@ Já no nosso caso é diferente. O modelo que estamos usando analisa ciclos de co
 
 Portanto, pagar quase 80% a mais (aumento de $7.80 para $13.73) por uma máquina no Brasil não se justifica tecnicamente para este escopo. A hospedagem nos EUA entrega a mesma capacidade computacional, gerando uma grande redução de custos (Cost Optimization) para a fazenda.
 
-🎥 **Vídeo de Demonstração (AWS Calculator):** [COLE O SEU LINK DO YOUTUBE AQUI]
+🎥 **Vídeo de Demonstração (AWS Calculator):** [https://youtu.be/Q9oBAAPJ8FQ]
